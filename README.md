@@ -1,7 +1,9 @@
 <h1 align="center"> macOS on HP EliteBook 830 G7 </h1>
 
 <p align="center">
-https://github.com/Souravlvn/HP-ELITEBOOK-830-G7-COMETLAKE-HACKINTOSH-HD/assets/118700129/879dbbac-19f3-4ecf-a939-af5a377a33f3
+ <img src="https://github.com/Souravlvn/HP-ELITEBOOK-830-G7-COMETLAKE-HACKINTOSH-HD/assets/118700129/9c47051f-4373-4879-a136-180fb3b120ae..png">
+
+</p>
 
 
 </p>
