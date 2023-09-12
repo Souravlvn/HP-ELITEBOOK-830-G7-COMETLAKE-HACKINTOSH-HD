@@ -1,7 +1,8 @@
 <h1 align="center"> macOS on HP EliteBook 830 G7 </h1>
 
 <p align="center">
-  <>
+  ![Screenshot 2023-09-11 at 2 30 25 AM](https://github.com/Souravlvn/HP-ELITEBOOK-830-G7-COMETLAKE-HACKINTOSH-HD/assets/118700129/5fb74c60-33c4-4db6-948e-9f135b81c7de)
+
 </p>
 
 <h4 align="center"> OpenCore config for Hackintosh HP EliteBook 830 G7 </h4>
@@ -85,5 +86,5 @@ SMBIOS Settings  | With [GenSMBIOS] you should definitely set your SMBIOS MBP16,
   
  - [Dortania](https://dortania.github.io) for developing OpenCore.
  - [Apple](https://www.apple.com) for macOS.
- - [https://www.facebook.com/souravnucx
+ - https://www.facebook.com/souravnucx
 
