@@ -2,6 +2,7 @@
 
 <p align="center">
  <img src="https://github.com/Souravlvn/HP-ELITEBOOK-830-G7-COMETLAKE-HACKINTOSH-HD/assets/118700129/9c47051f-4373-4879-a136-180fb3b120ae..png">
+greekbench https://github.com/Souravlvn/HP-ELITEBOOK-830-G7-COMETLAKE-HACKINTOSH-HD/assets/118700129/ef39a9f1-09fc-4900-ae1b-db396a321ab4)
 
 </p>
 
